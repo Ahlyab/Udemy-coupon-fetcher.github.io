@@ -20,4 +20,4 @@ A program that will give you Udemy coupons with 100% discount and no coupon expi
 <p> Now you can go to youtube and watch my video tutorial and use udemy coupon fetcher without any issues.</p>
 <p>Youtube video link:&nbsp;<a href="https://www.youtube.com/watch?v=PHZdzsBM2jw">https://www.youtube.com/watch?v=PHZdzsBM2jw</a></p>
 <p>&nbsp;<strong>About:</strong></p>
-<p>This program is written and designed by Ahlyab. Any type of change in code without author permission is illegal. It is specifically made for study purposes. Any miss use of this software is not the author's responsibility.</p>
+<p>This program is written and designed by Ahlyab. Any type of change in code without author permission is illegal. It is specifically made for study purposes. Any misuse of this software is not the author's responsibility.</p>
