@@ -8,9 +8,9 @@ A program that will give you Udemy coupons with 100% discount and no coupon expi
 <p>geckodriver (web driver for firefox is already in the executable path so you don't need to do any additional installation )</p>
 <p><strong>Usage:</strong></p>
 <ul>
-<li>Download anyone files of these three files</li>
-<li>extract it using <a href="https://www.win-rar.com/download.html?&amp;L=0" target="_blank" rel="noopener">Winrar</a></li>
-<li>open the extracted folder and run&nbsp;<strong>Udemy Free Coupons.exe</strong></li>
+<li>Download or Clone the Repository</li>
+
+<li>open the  folder and run&nbsp;<strong>Udemy Free Coupons.exe</strong></li>
 <li>Enter the amount of coupons you want.</li>
 <li>wait for few minutes&nbsp;</li>
 <li>check&nbsp;<strong>free_coupons.txt&nbsp;</strong>file for free coupon links</li>
